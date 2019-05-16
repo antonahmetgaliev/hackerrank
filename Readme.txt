@@ -1,0 +1,1 @@
+In this folder there will be various tasks from https://www.hackerrank.com.
