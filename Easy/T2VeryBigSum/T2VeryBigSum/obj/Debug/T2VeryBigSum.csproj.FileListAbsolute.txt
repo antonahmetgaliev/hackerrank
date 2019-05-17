@@ -1,0 +1,7 @@
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\obj\Debug\T2VeryBigSum.csprojAssemblyReference.cache
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\obj\Debug\T2VeryBigSum.csproj.CoreCompileInputs.cache
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\bin\Debug\T2VeryBigSum.exe.config
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\bin\Debug\T2VeryBigSum.exe
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\bin\Debug\T2VeryBigSum.pdb
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\obj\Debug\T2VeryBigSum.exe
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSum\obj\Debug\T2VeryBigSum.pdb
