@@ -1,0 +1,17 @@
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\T2VeryBigSumTests.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\T2VeryBigSumTests.pdb
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\T2VeryBigSum.exe
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\T2VeryBigSum.pdb
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\T2VeryBigSum.exe.config
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\obj\Debug\T2VeryBigSumTests.csprojAssemblyReference.cache
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\obj\Debug\T2VeryBigSumTests.csproj.CoreCompileInputs.cache
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\obj\Debug\T2VeryBigSumTests.csproj.CopyComplete
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\obj\Debug\T2VeryBigSumTests.dll
+D:\hackerrank\Easy\T2VeryBigSum\T2VeryBigSumTests\obj\Debug\T2VeryBigSumTests.pdb

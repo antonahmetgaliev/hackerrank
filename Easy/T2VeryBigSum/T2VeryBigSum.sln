@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28822.285
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2VeryBigSum", "T2VeryBigSum\T2VeryBigSum.csproj", "{ACD0256D-D148-49D4-8178-D4E0DE957A20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2VeryBigSumTests", "T2VeryBigSumTests\T2VeryBigSumTests.csproj", "{DCF698B0-38E9-4797-B899-EF90C9464EC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{649DD563-519E-41C1-B0A3-8609570193AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{ACD0256D-D148-49D4-8178-D4E0DE957A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACD0256D-D148-49D4-8178-D4E0DE957A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACD0256D-D148-49D4-8178-D4E0DE957A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF698B0-38E9-4797-B899-EF90C9464EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF698B0-38E9-4797-B899-EF90C9464EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF698B0-38E9-4797-B899-EF90C9464EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF698B0-38E9-4797-B899-EF90C9464EC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCF698B0-38E9-4797-B899-EF90C9464EC4} = {649DD563-519E-41C1-B0A3-8609570193AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {143E5D76-3AC3-4C92-AB6B-3049BDC0EC06}

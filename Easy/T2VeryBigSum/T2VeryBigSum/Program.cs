@@ -1,4 +1,6 @@
-﻿namespace T2VeryBigSum
+﻿using System.Linq;
+
+namespace T2VeryBigSum
 {
     using System.IO;
     using System;
@@ -7,20 +9,21 @@
     {
 
         // Complete the aVeryBigSum function below.
-        public static long AVeryBigSum()
+        public static long AVeryBigSum(long[] ar)
         {
-
+            return ar.Sum();
         }
 
         private static void Main()
         {
-            TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+            //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
             var arCount = Convert.ToInt32(Console.ReadLine());
             var ar = Array.ConvertAll(Console.ReadLine().Split(' '), Convert.ToInt64);
             var result = AVeryBigSum(ar);
-            textWriter.WriteLine(result);
-            textWriter.Flush();
-            textWriter.Close();
+            Console.WriteLine(result);
+            Console.ReadKey();
+            //textWriter.Flush();
+            //textWriter.Close();
         }
     }
 
