@@ -10,6 +10,6 @@ Comparison points is the total points a person earned.
 All the existing text of the program was together with the task*
 
 Solution:
-	- Create Unit Tests;
+	+ Create Unit Tests;
 	Program.cs:
-		- Implement an estimation method.
+		+ Implement an estimation method.

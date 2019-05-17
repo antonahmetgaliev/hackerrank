@@ -1,0 +1,7 @@
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\bin\Debug\T1ArrayRate.exe.config
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\bin\Debug\T1ArrayRate.exe
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\bin\Debug\T1ArrayRate.pdb
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\obj\Debug\T1ArrayRate.csprojAssemblyReference.cache
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\obj\Debug\T1ArrayRate.csproj.CoreCompileInputs.cache
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\obj\Debug\T1ArrayRate.exe
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRate\obj\Debug\T1ArrayRate.pdb

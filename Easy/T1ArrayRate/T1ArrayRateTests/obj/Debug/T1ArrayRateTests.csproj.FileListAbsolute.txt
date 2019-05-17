@@ -1,0 +1,17 @@
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\T1ArrayRateTests.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\T1ArrayRateTests.pdb
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\T1ArrayRate.exe
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\T1ArrayRate.pdb
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\T1ArrayRate.exe.config
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\obj\Debug\T1ArrayRateTests.csprojAssemblyReference.cache
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\obj\Debug\T1ArrayRateTests.csproj.CoreCompileInputs.cache
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\obj\Debug\T1ArrayRateTests.csproj.CopyComplete
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\obj\Debug\T1ArrayRateTests.dll
+D:\hackerrank\Easy\T1ArrayRate\T1ArrayRateTests\obj\Debug\T1ArrayRateTests.pdb
